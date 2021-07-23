@@ -1,0 +1,983 @@
+item_name,category,tag1,tag2,tag3,tag4,tag5,author_date,committer_date,msg,commmitter,author
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-21T16:34:21+01:00,2018-03-21T16:34:21+01:00,first commit..starting with domain,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-22T11:07:31+01:00,2018-03-22T11:07:31+01:00,created git_repository and other important classes,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-22T12:53:52+01:00,2018-03-22T12:53:52+01:00,git repo now has get_commit,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-26T13:13:27+02:00,2018-03-26T13:13:27+02:00,"add modification, implemented files()",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-27T16:34:02+02:00,2018-03-27T16:34:02+02:00,first visitor works!,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-27T17:43:12+02:00,2018-03-27T17:43:12+02:00,improvements on git_repository,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-28T11:29:24+02:00,2018-03-28T11:29:24+02:00,started some documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-28T11:31:08+02:00,2018-03-28T11:31:08+02:00,ignoring test-repos. Uploading test-repos.zip,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-28T11:41:30+02:00,2018-03-28T11:41:30+02:00,better handling of dates in the test,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-28T11:56:13+02:00,2018-03-28T11:56:13+02:00,more documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-28T14:30:18+02:00,2018-03-28T14:30:18+02:00,added filters. new tests too,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-28T15:50:25+02:00,2018-03-28T15:50:25+02:00,now it handles different branches,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-28T16:44:25+02:00,2018-03-28T16:44:25+02:00,moving from unittest to pytest,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-28T16:50:58+02:00,2018-03-28T16:50:58+02:00,created travis requirements,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-28T16:56:44+02:00,2018-03-28T16:56:44+02:00,update travis file,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-28T17:05:39+02:00,2018-03-28T17:05:39+02:00,moving from == to is,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-29T10:21:09+02:00,2018-03-29T10:21:09+02:00,new test and small modifications,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-29T11:46:59+02:00,2018-03-29T11:46:59+02:00,add test for modification. using fixture of pytest in repository mining tests,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-29T13:13:07+02:00,2018-03-29T13:13:07+02:00,more integration tests,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-29T16:32:03+02:00,2018-03-29T16:32:03+02:00,now it creates a new branch when checking out. More tests too,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-29T16:58:07+02:00,2018-03-29T16:58:07+02:00,finish to replicate repodriller tests,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-29T17:02:33+02:00,2018-03-29T17:02:33+02:00,small,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-30T08:47:02+02:00,2018-03-30T08:47:02+02:00,memory consumption test,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-30T09:11:56+02:00,2018-03-30T09:11:56+02:00,fixing bug of memory consumption,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-30T09:14:17+02:00,2018-03-30T09:14:17+02:00,fix requirements,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-30T14:06:06+02:00,2018-03-30T14:06:06+02:00,fix bug of timezones,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-30T14:09:17+02:00,2018-03-30T14:09:17+02:00,add print output on travis builds,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-30T14:40:59+02:00,2018-03-30T14:40:59+02:00,getting the phisycal memory and not virtual,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-30T15:08:58+02:00,2018-03-30T15:08:58+02:00,fixing memory,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-30T17:51:46+02:00,2018-03-30T17:51:46+02:00,using logging,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-30T18:13:35+02:00,2018-03-30T18:13:35+02:00,small,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-30T22:03:30+02:00,2018-03-30T22:03:30+02:00,small fix,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-31T12:01:15+02:00,2018-03-31T12:01:15+02:00,implemented commit filters,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-31T12:15:48+02:00,2018-03-31T12:15:48+02:00,test filters,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-03-31T12:18:47+02:00,2018-03-31T12:18:47+02:00,upload new repos,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-03T08:53:49+02:00,2018-04-03T08:53:49+02:00,importing logging everywhere,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-03T12:13:20+02:00,2018-04-03T12:13:20+02:00,pydriller now uses threads,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-03T12:28:15+02:00,2018-04-03T12:28:15+02:00,new test repos,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-03T16:00:30+02:00,2018-04-03T16:00:30+02:00,small,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-03T16:02:49+02:00,2018-04-03T16:02:49+02:00,README modified,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-04T10:27:34+02:00,2018-04-04T10:27:34+02:00,add README,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-04T11:36:59+02:00,2018-04-04T11:36:59+02:00,more README,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-04T12:07:21+02:00,2018-04-04T12:07:21+02:00,more readme,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-04T13:21:56+02:00,2018-04-04T13:21:56+02:00,finish readme,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-04T13:55:33+02:00,2018-04-04T13:55:33+02:00,add docs,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-04T14:27:24+02:00,2018-04-04T14:27:24+02:00,new docs,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-04T14:40:48+02:00,2018-04-04T14:40:48+02:00,changing theme,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-04T17:54:13+02:00,2018-04-04T17:54:13+02:00,structure changed. now everything is in pydriller,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-05T10:58:38+02:00,2018-04-05T10:58:38+02:00,big change: CommitVisitor is no longer needed. Now RepositoryMining returns a generator instead,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-05T11:00:55+02:00,2018-04-05T11:00:55+02:00,just to trigger travis-ci.org,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-05T13:13:02+02:00,2018-04-05T13:13:02+02:00,better documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-05T14:41:40+02:00,2018-04-05T14:41:40+02:00,better documentation. modified README. created an example directory,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-05T17:48:25+02:00,2018-04-05T17:48:25+02:00,small example,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-05T18:34:58+02:00,2018-04-05T18:34:58+02:00,another example. Update README with the link to the example dir,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-05T19:02:20+02:00,2018-04-05T19:02:20+02:00,test for readthedocs,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-05T19:06:23+02:00,2018-04-05T19:06:23+02:00,more readthedocs settings,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-05T19:07:49+02:00,2018-04-05T19:07:49+02:00,small error in .yml file,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-07T09:56:58+02:00,2018-04-07T09:56:58+02:00,new feature parse_diff to parse a git diff,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-07T10:00:18+02:00,2018-04-07T10:00:18+02:00,small in type hinting,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-07T10:02:00+02:00,2018-04-07T10:02:00+02:00,fix type hinting problem,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-07T10:56:56+02:00,2018-04-07T10:56:56+02:00,insert LICENSE,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-07T11:20:07+02:00,2018-04-07T11:20:07+02:00,minor in setup.py,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-07T12:45:54+02:00,2018-04-07T12:45:54+02:00,update setup.py with long description,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-09T10:35:10+02:00,2018-04-09T10:35:10+02:00,now pydriller works for python >= 3.4,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-09T11:10:39+02:00,2018-04-09T11:10:39+02:00,fixing astimezone since it is not available for python < 3.6,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-09T11:26:48+02:00,2018-04-09T11:26:48+02:00,change badge to travis-ci.org,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-09T11:45:47+02:00,2018-04-09T11:45:47+02:00,removed python-dateutil dependency. Now it uses datetime.timezone,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-09T11:52:54+02:00,2018-04-09T11:52:54+02:00,fix dependency in setup.py and add asserts in test_diff,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-09T13:08:05+02:00,2018-04-09T13:08:05+02:00,add slack notification to travis. Changed name to PyDriller,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-09T13:37:53+02:00,2018-04-09T13:37:53+02:00,travis-ci now posts on slack channel,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-09T13:42:04+02:00,2018-04-09T13:42:04+02:00,installing requests,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-09T14:02:05+02:00,2018-04-09T14:02:05+02:00,slack message posted by travis now contains the python version,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-09T15:01:39+02:00,2018-04-09T15:01:39+02:00,removing .idea directory,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-10T11:52:18+02:00,2018-04-10T11:52:18+02:00,change the docs: required Python is >= 3.4,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-10T12:32:45+02:00,2018-04-10T12:32:45+02:00,exporting git NULL_TREE hash to a variable,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-18T15:23:37+02:00,2018-04-18T15:23:37+02:00,"Modifications list is now a lazy property, and it is instantiated on the Commit instead of in RepositoryMining",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-18T16:00:23+02:00,2018-04-18T16:00:23+02:00,"Now also branches is calculated lazily. Memory consumption test now tests both solution (with everything, and nothing)",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-18T17:43:10+02:00,2018-04-18T17:43:10+02:00,refactoring test_consumption,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-24T00:06:08+02:00,2018-04-24T00:06:08+02:00,"Major change: everything is lazy now, including the diff and the source code. Modification.py no longer exist, everything is in the commit module.",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-24T11:22:27+02:00,2018-04-24T11:22:27+02:00,better documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-24T11:22:51+02:00,2018-04-24T11:22:51+02:00,Add a test to exercise the new lazy evaluated diff,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-24T11:23:02+02:00,2018-04-24T11:23:02+02:00,preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-24T11:49:57+02:00,2018-04-24T11:49:57+02:00,"Merge pull request #1 from ishepard/lazy-properties
+
+PyDriller is now lazy",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-04-25T10:04:46+02:00,2018-04-25T10:04:46+02:00,removed num_threads parameter in RepositoryMining since it is not used,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-05-04T15:33:54+02:00,2018-05-04T15:33:54+02:00,included gif in readthedocs,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-05-04T15:52:23+02:00,2018-05-04T15:52:23+02:00,"excluding directory ""examples"" in bettercodehub",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-05-24T16:02:06+02:00,2018-05-24T16:02:06+02:00,including codecov,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-05-24T16:51:11+02:00,2018-05-24T16:51:11+02:00,add .coveragerc,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-05-24T17:04:20+02:00,2018-05-24T17:04:20+02:00,small,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-05-24T17:09:46+02:00,2018-05-24T17:09:46+02:00,coverage as requirement,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-05-24T17:18:53+02:00,2018-05-24T17:18:53+02:00,fix in wrong dependency,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-05-24T17:52:48+02:00,2018-05-24T17:52:48+02:00,add badge of codecov,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-05-25T09:40:04+02:00,2018-05-25T09:40:04+02:00,inserting codecov yml,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-05-30T16:21:12+02:00,2018-05-30T16:21:12+02:00,add GIF in readme,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-01T11:22:45+02:00,2018-06-01T11:22:45+02:00,"some new tests, increased coverage to 94%",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-05T17:50:44+02:00,2018-06-05T17:50:44+02:00,started implementing szz,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-06T10:47:59+02:00,2018-06-06T10:47:59+02:00,"remove log from memory consumption, they are useless since I never check them",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-06T13:16:58+02:00,2018-06-06T13:16:58+02:00,new test for bug inducing commit,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-06T13:42:50+02:00,2018-06-06T13:42:50+02:00,"removing the ""-s"" from .travis.yml
+
+In this way, logs are not printed on the terminal.",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-06T14:00:03+02:00,2018-06-06T14:00:03+02:00,adding travis_wait since the test can require more than 10 minutes to finish,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-06T14:18:51+02:00,2018-06-06T14:18:51+02:00,"Trying another solution, setting the log-cli-level to warning",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-06T14:46:30+02:00,2018-06-06T14:46:30+02:00,still do not like the warning messages. I reduce the number of commits to analyze in the memory consumption test to ~1500,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-06T14:47:26+02:00,2018-06-06T14:47:26+02:00,solved a bug that wrongly calculate the useless lines,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-06T14:55:16+02:00,2018-06-06T14:55:16+02:00,small fix that required a lazy property to be evaluated when logging,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-06T16:46:12+02:00,2018-06-06T16:46:12+02:00,"Merge pull request #3 from ishepard/szz
+
+Implementing function bug inducing commit (using SZZ)",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-06T17:46:04+02:00,2018-06-06T17:46:04+02:00,change the name of the API with a more appropriate name. Update also documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-06T17:49:01+02:00,2018-06-06T17:49:01+02:00,preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-07T11:15:39+02:00,2018-06-07T11:15:39+02:00,"Add the possibility of analyzing a single modification in ""get commits that last modified lines"" method",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-07T11:40:14+02:00,2018-06-07T11:40:14+02:00,Preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-07T14:46:16+02:00,2018-06-07T14:46:16+02:00,add a new test for get commits last modified lines,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-09T10:43:25+02:00,2018-06-09T10:43:25+02:00,speeding up PyDriller. Now it saves GitCommit object so it queries less time Git,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-09T11:23:15+02:00,2018-06-09T11:23:15+02:00,"Rollback: Modifications are now simpler, and do not require to call git diff 2 times",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-09T11:31:33+02:00,2018-06-09T11:31:33+02:00,removing intermediate state in the test,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-09T12:11:39+02:00,2018-06-09T12:11:39+02:00,"more consistency: now no functions return GitCommit, only Commit",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-09T13:04:51+02:00,2018-06-09T13:04:51+02:00,"Merge pull request #4 from ishepard/optimization
+
+Optimization",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-09T13:09:12+02:00,2018-06-09T13:09:12+02:00,preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-06-29T13:24:32+02:00,2018-06-29T13:24:32+02:00,small in documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-07-13T11:02:33+02:00,2018-07-13T11:02:33+02:00,Add python 3.7,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-07-13T11:03:32+02:00,2018-07-13T11:03:32+02:00,Add python 3.7 in setup.py,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-07-13T11:18:13+02:00,2018-07-13T11:18:13+02:00,rollback travis to py3.6. 3.7 is not supported yet,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-07-13T11:23:36+02:00,2018-07-13T11:23:36+02:00,small fix in readme,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-07-23T12:42:16+02:00,2018-07-23T12:42:16+02:00,small improvement. Now the repo is opened only at init time,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-07-23T13:02:14+02:00,2018-07-23T13:02:14+02:00,preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-01T21:11:07+08:00,2018-08-01T21:11:07+08:00,add test to reproduce reset issue (with commit not fully merged).,Ledenel,Ledenel
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-01T21:23:25+08:00,2018-08-01T21:23:25+08:00,fix reset issue by forcing temp branch to be deleted,Ledenel,Ledenel
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-02T10:05:11+02:00,2018-08-02T10:05:11+02:00,"Merge pull request #5 from Ledenel/master
+
+fix GitRepository.reset() not working with checkout commit not merged into main branch",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-03T14:57:18+02:00,2018-08-03T14:57:18+02:00,add citation in README,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-03T15:00:33+02:00,2018-08-03T15:00:33+02:00,small fix in README,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-03T15:01:00+02:00,2018-08-03T15:01:00+02:00,fix lowercase in README,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-03T15:02:47+02:00,2018-08-03T15:02:47+02:00,remove question mark from header in README,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-03T15:05:40+02:00,2018-08-03T15:05:40+02:00,preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-03T15:07:30+02:00,2018-08-03T15:07:30+02:00,change description of setup.py,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-03T15:10:21+02:00,2018-08-03T15:10:21+02:00,english fix in README,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-03T15:17:34+02:00,2018-08-03T15:17:34+02:00,style fix in README,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-03T15:19:04+02:00,2018-08-03T15:19:04+02:00,another style fix in README,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-03T15:24:14+02:00,2018-08-03T15:24:14+02:00,add citation to documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-16T09:40:54+02:00,2018-08-16T09:40:54+02:00,"Small in README.md
+
+Fix #6",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-16T09:42:23+02:00,2018-08-16T09:42:23+02:00,"Merge pull request #7 from ishepard/ishepard-readme
+
+Small in README.md",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-28T09:53:39+02:00,2018-08-28T09:53:39+02:00,Update README.md,GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-08-28T09:56:08+02:00,2018-08-28T09:56:08+02:00,Update README.md,GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-24T12:02:51+02:00,2018-09-24T12:02:51+02:00,new metrics in modification,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-24T12:07:18+02:00,2018-09-24T12:07:18+02:00,fix in requirements,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-24T12:20:14+02:00,2018-09-24T12:20:14+02:00,now commit contains also the list of methods,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-24T12:24:09+02:00,2018-09-24T12:24:09+02:00,new assertion for the number of methods,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-24T12:33:14+02:00,2018-09-24T12:33:14+02:00,add documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-24T16:27:45+02:00,2018-09-24T16:27:45+02:00,include metrics in the memory consumption test,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-24T16:44:39+02:00,2018-09-24T16:44:39+02:00,fixing error in travis if the test takes more than 10 minutes to run,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-24T17:20:20+02:00,2018-09-24T17:20:20+02:00,increasing waiting time to 60 minutes,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-24T18:13:20+02:00,2018-09-24T18:13:20+02:00,logging in memory_consumption.py,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-24T18:26:48+02:00,2018-09-24T18:26:48+02:00,small in travis.yml,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-25T11:33:19+02:00,2018-09-25T11:33:19+02:00,change dates for test memory consumption,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-25T12:14:59+02:00,2018-09-25T12:14:59+02:00,"small improvements
+
+using a more pythonic way to check if string is empty.
+removing logging from test_memory_consumption, not needed anymore.
+increasing the timing for travis, since it doesn't log anymore",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-25T12:34:26+02:00,2018-09-25T12:34:26+02:00,Small fix in the init function of Modification. Mainly to fix BetterCodeHub error message.,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-28T11:58:38+02:00,2018-09-28T11:58:38+02:00,calculate metrics is now private. Update documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-28T12:22:55+02:00,2018-09-28T12:22:55+02:00,"Merge pull request #8 from ishepard/static-analysis
+
+Static analysis is now enabled in PyDriller. The modification object carries information about LOC, complexity, token count, and list of methods. For each method, more information are available (like starting and ending line, complexity, LOC, fan in and out, etc. )",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-09-28T15:04:27+02:00,2018-09-28T15:04:27+02:00,"split requirements in ""install"" and ""test""",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-08T11:18:27+02:00,2018-10-08T11:18:27+02:00,preparing release 1.3,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-08T11:22:23+02:00,2018-10-08T11:22:23+02:00,small in README,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-19T16:46:05+02:00,2018-10-19T16:46:05+02:00,"first attempt, added the possibility of passing a list of URLs instead of just 1",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-20T11:45:39+02:00,2018-10-20T11:45:39+02:00,conceptually it works (still have to write tests). Now RepoMining accept a string (or list of strings) of local and/or remore repos,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-20T11:57:33+02:00,2018-10-20T11:57:33+02:00,created cleanup function,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-21T11:21:29+02:00,2018-10-21T11:21:29+02:00,"fix bugs in repository mining, add tests. Thank you tests!!",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-21T11:41:55+02:00,2018-10-21T11:41:55+02:00,more tests,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-22T10:47:17+02:00,2018-10-22T10:47:17+02:00,"deleted one parameter, now the RepositoryMining accepts only path to repo, which might be local or remote",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-22T11:24:17+02:00,2018-10-22T11:24:17+02:00,"Commit now has information on the project name.
+reformatting using PyCharm",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-22T11:30:21+02:00,2018-10-22T11:30:21+02:00,small in comments,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-22T14:13:31+02:00,2018-10-22T14:13:31+02:00,"Merge pull request #9 from ishepard/remote-repository
+
+Remote repository",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-22T15:49:41+02:00,2018-10-22T15:49:41+02:00,more on documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-22T16:10:25+02:00,2018-10-22T16:10:25+02:00,"now PyDriller clones the repos on the fly, and deletes them immediately after",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-22T16:31:17+02:00,2018-10-22T16:31:17+02:00,preparing for release 1.4,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-22T17:00:37+02:00,2018-10-22T17:00:37+02:00,"small on documentation. Plus, change the scope of some functions in repository mining",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-23T10:07:04+02:00,2018-10-23T10:07:04+02:00,better scope of variables and function in RepositoryMining,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-23T10:24:14+02:00,2018-10-23T10:24:14+02:00,preparing for release. small fix in variables and functions scope,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-23T14:46:34+02:00,2018-10-23T14:46:34+02:00,project_path now is public,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-23T15:19:32+02:00,2018-10-23T15:19:32+02:00,"in GitRepository, git and repo are lazy evaluated. This prevents users that only want to use the ""parse_diff()"" feature to create git and repo for nothing",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-23T15:26:30+02:00,2018-10-23T15:26:30+02:00,reformat tests using PyCharm,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-25T11:32:50+02:00,2018-10-25T11:32:50+02:00,add small tutorial for remote repositories,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-25T11:33:43+02:00,2018-10-25T11:33:43+02:00,small in commit.rst,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-26T16:11:40+02:00,2018-10-26T16:11:40+02:00,trying appvejor,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-26T16:31:43+02:00,2018-10-26T16:31:43+02:00,small,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-26T17:18:52+02:00,2018-10-26T17:18:52+02:00,still trying with appveyor,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-26T17:24:04+02:00,2018-10-26T17:24:04+02:00,changing location of appvejor,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-26T17:28:49+02:00,2018-10-26T17:28:49+02:00,removing hadoop cloning,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-26T19:30:26+02:00,2018-10-26T19:30:26+02:00,removing python 3.4 from appveyor since psutil fails. will have to look at it in the future,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-27T09:49:37+02:00,2018-10-27T09:49:37+02:00,include badge for appveyor,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-27T09:51:53+02:00,2018-10-27T09:51:53+02:00,"Merge pull request #14 from ishepard/appveyor
+
+Appveyor",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-27T11:14:42+02:00,2018-10-27T11:14:42+02:00,fixing test in windows,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-27T11:15:33+02:00,2018-10-27T11:15:33+02:00,Merge branch 'appveyor',ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-27T11:58:55+02:00,2018-10-27T11:58:55+02:00,using Path to obtain the filename. This should solve the issue #13.,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-28T11:30:41+01:00,2018-10-28T11:30:41+01:00,add 1 test for filepaths,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-28T11:32:43+01:00,2018-10-28T11:32:43+01:00,update test-repos,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-29T10:05:21+01:00,2018-10-29T10:05:21+01:00,Using Path instead of str when storing the path to the repo,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-29T10:30:55+01:00,2018-10-29T10:30:55+01:00,"using str to create GitPython objects, since Python 3.4 and 3.5 does not accept PosixPath",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-29T10:41:27+01:00,2018-10-29T10:41:27+01:00,small refactoring in git repository test,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-29T10:46:59+01:00,2018-10-29T10:46:59+01:00,preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-31T10:07:25+01:00,2018-10-31T10:07:25+01:00,"- fixed bug for the parameter ""single"": in case the commit was not present in the repo, PyDriller was returning all the commits
+- fixed bug for consecutive checkouts: now it is possible to do it, however the last time git.reset() should be call to reset the status of the repo",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-31T10:30:02+01:00,2018-10-31T10:30:02+01:00,"- removed only_in_main_branch, since its behaviour was wrong (by default is True, and even if set to False nothing changed)
+- only_in_branch created: by default is the master branch, but one can now set to a different branch",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-31T11:02:18+01:00,2018-10-31T11:02:18+01:00,add tests for commit filters,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-31T11:55:45+01:00,2018-10-31T11:55:45+01:00,adding tests for repository_mining,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-31T13:41:28+01:00,2018-10-31T13:41:28+01:00,more tests for commit,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-31T14:47:50+01:00,2018-10-31T14:47:50+01:00,"Delete the exception from cloning the URL, since it is no more possible to raise it",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-10-31T15:41:09+01:00,2018-10-31T15:41:09+01:00,"Merge pull request #15 from ishepard/branches
+
+Branches",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-01T10:03:48+01:00,2018-11-01T10:03:48+01:00,preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-01T10:21:40+01:00,2018-11-01T10:21:40+01:00,small refactor in repository_mining,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-01T12:07:38+01:00,2018-11-01T12:07:38+01:00,moving from ordering by author date to ordering by committer date. This respects Git way of ordering,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-01T12:17:11+01:00,2018-11-01T12:17:11+01:00,small in memory consumption,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-01T13:15:55+01:00,2018-11-01T13:15:55+01:00,small in doc,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-02T10:02:07+01:00,2018-11-02T10:02:07+01:00,preparing for release.,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-05T22:45:20+01:00,2018-11-05T22:45:20+01:00,small in documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-06T14:41:49+01:00,2018-11-06T14:41:49+01:00,appveyor slack,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-06T14:53:59+01:00,2018-11-06T14:53:59+01:00,small in appveyor,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-06T14:54:46+01:00,2018-11-06T14:54:46+01:00,fall back,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-06T15:01:56+01:00,2018-11-06T15:01:56+01:00,small in appveyor,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-06T15:09:30+01:00,2018-11-06T15:09:30+01:00,appveyor incoming webhook,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-06T15:18:51+01:00,2018-11-06T15:18:51+01:00,incoming webhook url,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-06T15:30:39+01:00,2018-11-06T15:30:39+01:00,exporting webhook url,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-06T15:38:48+01:00,2018-11-06T15:38:48+01:00,secure webhook,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-06T15:41:24+01:00,2018-11-06T15:41:24+01:00,no emails on success,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-19T15:22:39+01:00,2018-11-19T15:22:39+01:00,created new filter only_authors to analyze only commits of specific authors,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-19T15:28:10+01:00,2018-11-19T15:28:10+01:00,include tests,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-19T15:39:06+01:00,2018-11-19T15:39:06+01:00,implemented also only_commits,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-20T09:56:20+01:00,2018-11-20T09:56:20+01:00,new assertions in test_only_commits,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-20T10:00:53+01:00,2018-11-20T10:00:53+01:00,small refactoring,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-20T10:06:04+01:00,2018-11-20T10:06:04+01:00,"Merge pull request #20 from ishepard/only-authors
+
+only_authors and only_commits",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-28T11:08:57+01:00,2018-11-28T11:08:57+01:00,"solving ""Exception ignored in finalize object dead"" #21",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-28T14:23:26+01:00,2018-11-28T14:23:26+01:00,"roll back, cleanup doesn't solve the problem",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-28T14:51:39+01:00,2018-11-28T14:51:39+01:00,Fix UNKNOWN Modification_Type,Luca Pascarella,Luca Pascarella
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-28T16:37:23+01:00,2018-11-28T16:37:23+01:00,"Merge pull request #23 from lucapascarella/master
+
+Fix UNKNOWN Modification_Type and add tests",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-11-30T14:38:38+01:00,2018-11-30T14:38:38+01:00,add my project's funding,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-12-07T16:23:00+01:00,2018-12-07T16:23:00+01:00,[skip travis] small in example,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-12-10T09:26:45+01:00,2018-12-10T09:26:45+01:00,"new section ""How to contribute""",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-12-10T09:27:48+01:00,2018-12-10T09:27:48+01:00,[skip travis] small fix in README,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-12-10T09:48:16+01:00,2018-12-10T09:48:16+01:00,[skipt travis] improved documentation with all possible configurations,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-12-10T10:03:15+01:00,2018-12-10T10:03:15+01:00,preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-12-12T10:36:19+02:00,2018-12-12T10:36:19+02:00,small performance improvement. Modifications and Branches are now calculated only the first time,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-12-12T10:55:13+02:00,2018-12-12T10:55:13+02:00,preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-12-12T21:17:34+02:00,2018-12-12T21:17:34+02:00,"fix problem causing memory swap. Now the list of commits is not kept in memory, a generator of commits is returned instead",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2018-12-13T10:30:26+02:00,2018-12-13T10:30:26+02:00,Small refactoring. Preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-09T13:31:53+08:00,2019-01-09T13:31:53+08:00,rename reverse_order to reversed_order,GitHub,Kang Hong Jin
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-09T16:15:50+01:00,2019-01-09T16:15:50+01:00,"Merge pull request #29 from kanghj/kanghj-reverse_order
+
+Fix doc: change reverse_order to reversed_order",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-11T14:06:30+01:00,2019-01-11T14:06:30+01:00,add test-repos-mercurial in gitignore,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-14T13:15:24+08:00,2019-01-14T13:15:24+08:00,add param to traverse file history,Kang Hong Jin,Kang Hong Jin
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-14T13:55:35+08:00,2019-01-14T13:55:35+08:00,catch GitCommandError,Kang Hong Jin,Kang Hong Jin
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-14T11:01:55+01:00,2019-01-14T11:01:55+01:00,added new test repository for 'no newline' bug,Christoph Gote,Christoph Gote
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-14T11:17:18+01:00,2019-01-14T11:17:18+01:00,added test for 'no newline' bug,Christoph Gote,Christoph Gote
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-14T11:19:35+01:00,2019-01-14T11:19:35+01:00,added fix for 'no newline' bug,Christoph Gote,Christoph Gote
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-14T11:55:36+01:00,2019-01-14T11:55:36+01:00,"Merge pull request #33 from gotec/master
+
+Fixed Issue #32",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-14T13:15:29+01:00,2019-01-14T13:15:29+01:00,refactoring check_timezone function,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-14T13:22:20+01:00,2019-01-14T13:22:20+01:00,preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-14T13:53:59+01:00,2019-01-14T13:53:59+01:00,refactor test so it doesn't post on the Slack channel everytime,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-14T14:02:23+01:00,2019-01-14T14:02:23+01:00,removing the waiting time of travis CI,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-14T14:37:56+01:00,2019-01-14T14:37:56+01:00,fix travis CI build with new logging levels,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-14T14:57:46+01:00,2019-01-14T14:57:46+01:00,small in warning,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-17T15:23:24+08:00,2019-01-17T15:23:24+08:00,allow filepath to be used with other filters,Kang Hong Jin,Kang Hong Jin
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-18T16:49:24+01:00,2019-01-18T16:49:24+01:00,"Merge pull request #31 from kanghj/file-history
+
+add param to traverse file history",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-18T17:03:07+01:00,2019-01-18T17:03:07+01:00,"changing path from absolute to relative, and removing useless code from get_commits_modified_file",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-21T10:24:13+01:00,2019-01-21T10:24:13+01:00,Update issue templates,GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-21T10:38:17+01:00,2019-01-21T10:38:17+01:00,Update issue templates,GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-21T14:46:27+01:00,2019-01-21T14:46:27+01:00,"small in filtering commits, plus adding a new test for the ""filepath"" feature",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-21T16:07:57+01:00,2019-01-21T16:07:57+01:00,cleaning up tests and formatting assertions,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-21T17:16:30+01:00,2019-01-21T17:16:30+01:00,add python 3.7 support,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-22T15:08:07+01:00,2019-01-22T15:08:07+01:00,preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-01-22T15:14:33+01:00,2019-01-22T15:14:33+01:00,adding documentation of new parameter,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-02-11T11:08:36+01:00,2019-02-11T11:08:36+01:00,"update CPP results of lizard, since it broke when updated",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-02-11T12:48:45+01:00,2019-02-11T12:48:45+01:00,"downgrading Lizard, the new version is extremely slow",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-02-11T15:10:44+01:00,2019-02-11T15:10:44+01:00,upgrading lizard since the author fixed the performance issue,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-03-14T14:48:32+01:00,2019-03-14T14:48:32+01:00,Implemented filter_methdods - not tested,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-03-14T14:53:55+01:00,2019-03-14T14:53:55+01:00,Reversed pylint changes,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-03-14T15:56:53+01:00,2019-03-14T15:56:53+01:00,add initial .pylintrc,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-03-15T10:58:42+01:00,2019-03-15T10:58:42+01:00,refactorings following pylint info,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-03-15T12:11:51+01:00,2019-03-15T12:11:51+01:00,more docstring and suppress pylint warnings,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-03-21T14:44:47+01:00,2019-03-21T14:44:47+01:00,chars to 79,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-03-21T14:57:13+01:00,2019-03-21T14:57:13+01:00,small comments refactoring [skip travis],ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-03-21T14:58:46+01:00,2019-03-21T14:58:46+01:00,comments refactoring in commit [skip travis],ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-02T15:27:35+02:00,2019-04-02T15:27:35+02:00,Added tests,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-04T14:18:52+02:00,2019-04-04T14:18:52+02:00,"Merge branch 'feature/unique_methods' of git://github.com/NullConvergence/pydriller into NullConvergence-feature/unique_methods
+
+# Conflicts:
+#	pydriller/domain/commit.py",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-04T14:19:45+02:00,2019-04-04T14:19:45+02:00,Merge branch 'NullConvergence-feature/unique_methods',ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-04T14:23:51+02:00,2019-04-04T14:23:51+02:00,removing docs from BCH analysis,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-04T14:31:50+02:00,2019-04-04T14:31:50+02:00,change component depth [skip travis],ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-04T14:35:10+02:00,2019-04-04T14:35:10+02:00,component depth back to 1 [skip travis],ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-05T13:09:46+02:00,2019-04-05T13:09:46+02:00,small in BCH conf [skip travis],ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-05T13:18:59+02:00,2019-04-05T13:18:59+02:00,refactor check_range and filter_methods,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-08T16:17:14+02:00,2019-04-08T16:17:14+02:00,reverting changes to before the PR #37 since the feature was broken,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-16T15:02:40+02:00,2019-04-16T15:02:40+02:00,"if more than 1 parent, compare to git.NULL_TREE",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-25T11:03:36+02:00,2019-04-25T11:03:36+02:00,fix docs indentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-26T14:02:37+02:00,2019-04-26T14:02:37+02:00,Change name of RepositoryMining to Repository,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-26T14:21:28+02:00,2019-04-26T14:21:28+02:00,Rolling back to RepositoryMining since it might go in conflict with the original library of GitPython,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-26T15:12:19+02:00,2019-04-26T15:12:19+02:00,first try on implementing `only_releases`,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-26T15:21:40+02:00,2019-04-26T15:21:40+02:00,fix sanity check filter,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-04-30T12:00:05+02:00,2019-04-30T12:00:05+02:00,"- re-arrange tests
+- include tests for timezone offset
+- add test for releases wo releases",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-01T10:50:52+02:00,2019-05-01T10:50:52+02:00,"Merge pull request #40 from ishepard/only-releases
+
+Implements the filter ""only_releases""",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-01T10:53:09+02:00,2019-05-01T10:53:09+02:00,Merge branch 'master' into combined_diff,GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-01T13:01:44+02:00,2019-05-01T13:01:44+02:00,"Merge pull request #39 from ishepard/combined_diff
+
+if more than 1 parent, compare to git.NULL_TREE",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-02T09:40:53+02:00,2019-05-02T09:40:53+02:00,returning an empty diff in case of a merge commit.,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-02T12:06:27+02:00,2019-05-02T12:06:27+02:00,include only_releases in doc,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-17T10:54:49+02:00,2019-05-17T10:54:49+02:00,ignore non-decodable characters,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-17T12:13:35+02:00,2019-05-17T12:13:35+02:00,get source code before when existing,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-17T15:32:15+02:00,2019-05-17T15:32:15+02:00,add tests for new feature source_code_before,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-20T12:52:25+02:00,2019-05-20T12:52:25+02:00,"when diff or source code not present, return None",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-20T14:35:18+02:00,2019-05-20T14:35:18+02:00,"Merge pull request #43 from ishepard/source_code_before
+
+Source code before",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-20T14:50:57+02:00,2019-05-20T14:50:57+02:00,preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-20T14:52:29+02:00,2019-05-20T14:52:29+02:00,update doc with source_code_before [skip travis],ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-22T01:17:28+02:00,2019-05-22T01:17:28+02:00,"When blaming, ignore whitespace changes",Marco Castelluccio,Marco Castelluccio
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-22T10:00:00+02:00,2019-05-22T10:00:00+02:00,"Merge pull request #44 from marco-c/ignore_whitespace_changes_for_blame
+
+When blaming, ignore whitespace changes",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-24T16:44:09-04:00,2019-05-24T16:44:09-04:00,Missing parenthesis.,GitHub,Codematic71
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-25T17:05:25+02:00,2019-05-25T17:05:25+02:00,"Merge pull request #45 from Codematic71/patch-1
+
+Missing parenthesis in example",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-27T09:27:33-04:00,2019-05-27T09:27:33-04:00,small improve in commit doc [skip travis],ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-31T17:48:21-04:00,2019-05-31T17:48:21-04:00,"put citation at the beginning of the README, maybe the paper will get cited more times :) [skip travis]",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-05-31T17:51:37-04:00,2019-05-31T17:51:37-04:00,improve citation [skip travis],ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-07T10:37:28+02:00,2019-06-07T10:37:28+02:00,"add ""tests/"" in Travis CI and AppVejor so the detection of the tests is faster",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-10T11:17:27+02:00,2019-06-11T14:25:09+02:00,"Use 'git hyper-blame' if available
+
+Fixes #46",Marco Castelluccio,Marco Castelluccio
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-12T10:34:16+02:00,2019-06-12T10:34:16+02:00,"Merge pull request #47 from marco-c/hyper_blame
+
+Use git hyper-blame, if available, to improve SZZ results. Solve #46",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-14T17:21:52+02:00,2019-06-14T17:21:52+02:00,get_commits_last_modified_lines now returns a dictionary per file instead of set,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-17T11:30:18+02:00,2019-06-17T11:30:18+02:00,small refactoring in repository_mining,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-17T13:19:25+02:00,2019-06-17T13:19:25+02:00,"when checking if hyper-blame is available, I call ""-h"" instead of a file since it could raise an error",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-17T13:23:50+02:00,2019-06-17T13:23:50+02:00,updating test-repos,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-17T14:11:09+02:00,2019-06-17T14:11:09+02:00,prepare for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-18T10:52:33+02:00,2019-06-18T10:52:33+02:00,include LGTM badge [skip travis],ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-18T15:23:44+02:00,2019-06-18T15:23:44+02:00,including downloads per month in the badges,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-19T11:50:05+02:00,2019-06-19T11:50:05+02:00,removing useless import,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-25T14:49:02+02:00,2019-06-25T14:49:02+02:00,"Remove internal prints
+
+Remove internal prints",GitHub,Luca Pascarella
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-25T14:53:00+02:00,2019-06-25T14:53:00+02:00,"Merge pull request #49 from lucapascarella/patch-2
+
+Remove internal prints",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-06-26T10:04:46+02:00,2019-06-26T10:04:46+02:00,preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-07-19T11:55:01+02:00,2019-07-26T10:45:18+02:00,Automatically turn hashes_to_ignore path to absolute,Marco Castelluccio,Marco Castelluccio
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-07-26T10:56:55+02:00,2019-07-26T10:56:55+02:00,Use str(tmpdir) everywhere,Marco Castelluccio,Marco Castelluccio
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-07-26T11:55:34+02:00,2019-07-26T11:55:34+02:00,"Merge pull request #51 from marco-c/rel_hyper_blame
+
+Automatically turn hashes_to_ignore path to absolute",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-07-26T13:09:09+02:00,2019-07-26T13:09:09+02:00,fix bug that was calling hyper_blam_available every time,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-07-26T13:09:14+02:00,2019-07-26T13:09:14+02:00,Merge branch 'master' of github.com:ishepard/pydriller,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-07-26T14:04:14+02:00,2019-07-26T14:04:14+02:00,only use hyper blame if hashes_to_ignore_path is not None,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-08-01T09:21:44+02:00,2019-08-01T09:21:44+02:00,now Git and Repo are cached in GitRepository,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-08-01T09:30:19+02:00,2019-08-01T09:30:19+02:00,prepare for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-08-02T00:28:57+02:00,2019-08-02T00:29:00+02:00,"Install typing only on Python < 3.5
+
+It's part of the standard library starting from 3.5.
+See https://github.com/python/typing/issues/573.",Marco Castelluccio,Marco Castelluccio
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-08-03T09:45:26+02:00,2019-08-03T09:45:26+02:00,"Merge pull request #53 from marco-c/typing
+
+Install typing only on Python < 3.5",GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-08-19T09:24:25+02:00,2019-08-19T09:24:25+02:00,small in travis,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-08-19T09:24:39+02:00,2019-08-19T09:24:39+02:00,Merge branch 'master' of github.com:ishepard/pydriller,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-08-19T09:46:58+02:00,2019-08-19T09:46:58+02:00,test with OSX on travis,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-08-19T09:48:35+02:00,2019-08-19T09:48:35+02:00,remove python from travis,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-08-19T09:55:25+02:00,2019-08-19T09:55:25+02:00,"undo OSX test, still not stable",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-08-19T10:04:35+02:00,2019-08-19T10:04:35+02:00,remove OSX,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-08-22T15:56:35+02:00,2019-08-22T15:56:35+02:00,Fix #55.,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-09-16T15:40:17+02:00,2019-09-16T15:40:17+02:00,add github workflow,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-09-16T15:42:52+02:00,2019-09-16T15:42:52+02:00,change os.env of mem_cons_test,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-09-20T11:37:12+02:00,2019-09-20T11:37:12+02:00,Create .deepsource.toml,GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-09-20T11:40:42+02:00,2019-09-20T11:40:42+02:00,Update .deepsource.toml,GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-09-20T11:43:51+02:00,2019-09-20T11:43:51+02:00,Update .deepsource.toml,GitHub,Spadini Davide
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-10-31T13:35:05+01:00,2019-10-31T13:35:05+01:00,first try on implementing hyper-blame by ourselves,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-10-31T14:53:24+01:00,2019-10-31T14:53:24+01:00,remove hyper-blame from the tests,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-10-31T15:05:39+01:00,2019-10-31T15:05:39+01:00,fix error in test for python 3.4 (tmp_path does not exist),ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-10-31T15:22:27+01:00,2019-10-31T15:22:27+01:00,path should receive a str,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-10-31T15:37:31+01:00,2019-10-31T15:37:31+01:00,python 3.4 has reached end of life. Removing its support,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-10-31T15:51:53+01:00,2019-10-31T15:51:53+01:00,"trying to not cast Path to str every time, works on python 3.7",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-10-31T16:16:21+01:00,2019-10-31T16:16:21+01:00,"py3.5 complains about Path, revert to str cast",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-10T14:53:21+01:00,2019-12-10T14:53:21+01:00,"new test for multiple filters, small in documentation to clarify ""only_modification"" filter (fix #60), and remove deepsource toml file",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-10T15:15:43+01:00,2019-12-10T15:15:43+01:00,add run pull_request on github workflow,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-10T15:15:52+01:00,2019-12-10T15:15:52+01:00,Merge branch 'master' into our-hyper-blame,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-10T16:12:40+01:00,2019-12-10T16:12:40+01:00,"remove a test that was doubled, put the copyright of google depot_tools in our file, update the doc",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-10T16:17:36+01:00,2019-12-10T16:17:36+01:00,remove travis CI and Appvejor yml (tempting to move to github actions ONLY). include python 3.8 in the run,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-10T16:37:22+01:00,2019-12-10T16:37:22+01:00,trying slatify to push notification on Slack,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-11T15:51:27+01:00,2019-12-11T15:51:27+01:00,Implemented process metric to measure the number of commits to a file,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T10:14:23+01:00,2019-12-12T10:14:23+01:00,Added optional commit_hash to start counting from last commit,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T10:35:37+01:00,2019-12-12T10:35:37+01:00,Handled renaming and creation of a file when counting,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T10:49:56+01:00,2019-12-12T10:49:56+01:00,using modification.new_path instead of filename to compare for filepath. Added test case for remote scenario,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T11:14:11+01:00,2019-12-12T11:14:11+01:00,"removing Slack notification, it sends way to many notifications",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T11:25:03+01:00,2019-12-12T11:25:03+01:00,"Merge pull request #63 from ishepard/our-hyper-blame
+
+Implements git hyper blame",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T11:27:24+01:00,2019-12-12T11:27:24+01:00,"change run for github workflow.
+Remove unused variable in hyperblame.py",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T11:37:18+01:00,2019-12-12T11:37:18+01:00,Added process metric: distinct developers count,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T11:38:28+01:00,2019-12-12T11:38:28+01:00,Merge branch 'master' of https://github.com/ishepard/pydriller,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T11:40:44+01:00,2019-12-12T11:40:44+01:00,Add github workflow badge,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T11:54:59+01:00,2019-12-12T11:54:59+01:00,small in workflow badge,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T12:08:24+01:00,2019-12-12T12:08:24+01:00,Using Path to manipulate Windows path,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T12:54:51+01:00,2019-12-12T12:54:51+01:00,"Merge pull request #62 from stefanodallapalma/master
+
+Implemented process metric to measure the number of commits to a file",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T13:22:27+01:00,2019-12-12T13:22:27+01:00,Small change on the process metrics: now it accepts from and to commit,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T13:24:48+01:00,2019-12-12T13:24:48+01:00,Applying the same from and to commit change in distinct devs count,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T14:15:35+01:00,2019-12-12T14:15:35+01:00,"fix pylint issues, remove __str__ form Commit and Modification",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T14:23:59+01:00,2019-12-12T14:23:59+01:00,small in BCH.yml,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-12T14:48:50+01:00,2019-12-12T14:48:50+01:00,"remove the ADD check in count_commits. This because a file can be added and deleted multiple times in history, and we should not stop when we find the first ADD",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-13T16:10:46+01:00,2019-12-13T16:10:46+01:00,Now GitRepository passes **kwargs to Commit so we can easily extend it in the future with new arguments. Relaxed memory cons. test,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-13T17:00:59+01:00,2019-12-13T17:00:59+01:00,first attempt on creating a flag for the histogram diff. Not tested yet,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-13T17:25:54+01:00,2019-12-13T17:25:54+01:00,add a test for histogram,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-14T10:09:30+01:00,2019-12-14T10:09:30+01:00,optimize import,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-14T12:15:38+01:00,2019-12-14T12:15:38+01:00,"Merge pull request #64 from ishepard/histogram-diff
+
+Histogram diff",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-14T12:18:52+01:00,2019-12-14T12:18:52+01:00,"small refactoring, put some static methods in GitRepository and RepositoryMIning",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-14T12:23:41+01:00,2019-12-14T12:23:41+01:00,"Merge branch 'master' of github.com:ishepard/pydriller
+
+# Conflicts:
+#	pydriller/git_repository.py",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-16T12:50:54+01:00,2019-12-16T12:50:54+01:00,"Creating a Conf class. Now all the configuration are passed through this class, and the Commit object has to check this class to get its configuration",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-16T13:26:22+01:00,2019-12-16T13:26:22+01:00,"better documentation, solving some linting problems",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-17T15:38:46+11:00,2019-12-17T15:38:46+11:00,Add description of diff algorithms,GitHub,Yusuf Sulistyo Nugroho
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-17T10:26:41+01:00,2019-12-17T10:26:41+01:00,"Merge pull request #67 from yusufsn/patch-1
+
+Add description of diff algorithms",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-17T10:27:15+01:00,2019-12-17T10:27:15+01:00,small doc in git_repo,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-17T10:46:27+01:00,2019-12-17T10:46:27+01:00,Move explanation of diff algorithms to configuration in docs,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-17T11:29:26+01:00,2019-12-17T11:29:26+01:00,"now Conf doesn't depend on GitRepository anymore, but a GitRepository object is saved in the config file.
+Plus, I put codecov-action in the workflow",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-17T11:48:17+01:00,2019-12-17T11:48:17+01:00,"Merge pull request #65 from ishepard/config
+
+Create Config class",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-17T13:29:58+01:00,2019-12-17T13:29:58+01:00,add option for skipping whitespaces,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-17T13:41:10+01:00,2019-12-17T13:41:10+01:00,"Merge pull request #68 from ishepard/skipt_whitespaces
+
+Add option for skipping whitespaces",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-17T13:50:50+01:00,2019-12-17T13:50:50+01:00,Prepare for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-17T14:01:42+01:00,2019-12-17T14:01:42+01:00,remove reference of diff algorithms from README,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-21T12:45:20+00:00,2019-12-21T12:45:20+00:00,"Implements functionality requested in issue #71.
+
+In short, this commit adds a ""clone_repo_to"" option to allow a user
+to provide a directory in which to place clone a remote repo. This
+enables the user to access the files within that directory that
+aren't altered by a specific commit.
+
+A corresponding test has also been added.",James Goodwin,James Goodwin
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-21T14:11:29+00:00,2019-12-21T14:11:29+00:00,"A couple of modifications to the previous commit for issue #71.
+Changed to using Path to try to eliminate cross-platform issues.
+Also simplified function call in test.",James Goodwin,James Goodwin
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-21T16:12:26+00:00,2019-12-21T16:12:26+00:00,"Another attempt to fix the Windows workflow failure.
+This time I've created and deleted a directory manually rather than
+using the tempfile library.",James Goodwin,James Goodwin
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-22T10:30:57+01:00,2019-12-22T10:30:57+01:00,removing test,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-22T12:01:19+01:00,2019-12-22T12:01:19+01:00,"add test with only 1 traverse to the repo, it works on my windows machine",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-22T12:25:15+01:00,2019-12-22T12:25:15+01:00,just skipping the test when on windows,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-22T12:34:28+01:00,2019-12-22T12:34:28+01:00,"Merge pull request #73 from jphgoodwin/master
+
+Implements functionality requested in issue #71.",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-22T21:37:57+01:00,2019-12-22T21:41:24+01:00,"Use git built-in feature to ignore specific commits for blaming and make use of unblamable information
+
+Fixes #70",Marco Castelluccio,Marco Castelluccio
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-23T17:16:15+01:00,2019-12-23T17:16:15+01:00,"Merge pull request #74 from marco-c/use_builtin_hyper_blame
+
+Use git built-in feature to ignore specific commits for blaming and make use of unblamable information",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2019-12-24T11:38:55+01:00,2019-12-24T11:38:55+01:00,"change name of ""put"" function to ""set_value"", add check if git is greater than 2.23 to use hyperblame. Preparing for release 1.10.1",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-14T11:30:53+01:00,2020-01-14T11:30:53+01:00,Added metric to count for devs who contributed to the file in the previous release,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-14T11:51:20+01:00,2020-01-14T11:51:20+01:00,Added process metric to count the number of new developer who modified the file durinig the prior release,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-14T12:31:16+01:00,2020-01-14T12:31:16+01:00,Added two process metrics,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-14T17:54:30+01:00,2020-01-14T17:54:30+01:00,Added metric to count normalized number of added lines,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-14T18:11:09+01:00,2020-01-14T18:11:09+01:00,Added metric to count the normalized number of deleted lines,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-15T10:08:26+01:00,2020-01-15T10:08:26+01:00,refactored duplicated code to get releases sha with single method,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-15T10:30:36+01:00,2020-01-15T10:30:36+01:00,implemented method to get commits within the same release of a given commit,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-15T15:38:34+01:00,2020-01-15T15:38:34+01:00,Refactored process metrics and test cases,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-15T16:02:23+01:00,2020-01-15T16:02:23+01:00,"Resolved linter warninigs, removed print() and refactored methods",stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-15T17:09:56+01:00,2020-01-15T17:09:56+01:00,Update README.md,GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-15T17:20:16+01:00,2020-01-15T17:20:16+01:00,Added process metric OwnerContributedLines,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-15T17:40:01+01:00,2020-01-15T17:40:01+01:00,Parametrized tests using pytest instead of unittest,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-17T14:42:44+01:00,2020-01-17T14:42:44+01:00,Added metric to count the number of contributors who authored less than 5%,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-17T16:01:30+01:00,2020-01-17T16:01:30+01:00,Added metric to measure experience of the highest contributor of a file,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-17T17:34:36+01:00,2020-01-17T17:34:36+01:00,Added metric to measure the geometric mean of the experience of all the developers,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-17T18:44:29+01:00,2020-01-17T18:44:29+01:00,Added metric HunksCount to count the number of continuous block of changes in a diff.,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-20T15:50:42+01:00,2020-01-20T15:50:42+01:00,Added Hassan's history complexity metric of code changes,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-20T16:22:32+01:00,2020-01-20T16:22:32+01:00,Added metric to count for the number of new developers that modified the file in the release,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-20T16:53:57+01:00,2020-01-20T16:53:57+01:00,added interface to call metric Number of New Devs,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-20T17:04:01+01:00,2020-01-20T17:04:01+01:00,refactored code,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-22T12:06:21+01:00,2020-01-22T12:06:21+01:00,testing if appveyor has same problem of github workflow for windows machines,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-23T13:10:39+01:00,2020-01-23T13:10:39+01:00,Removed failed test messages from test cases,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-23T13:15:26+01:00,2020-01-23T13:15:26+01:00,"Re-integrating AppVeyor 
+
+In the attempt of solving ""OSError: [WinError 6] The handle is invalid""",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-23T13:19:12+01:00,2020-01-23T13:19:12+01:00,Merge https://github.com/ishepard/pydriller,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-23T13:24:55+01:00,2020-01-23T13:24:55+01:00,slack message,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-23T15:16:30+01:00,2020-01-23T15:16:30+01:00,cleaning after each run. I discovered that on Windows the temporary directory wasn't deleted properly,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-23T15:38:01+01:00,2020-01-23T15:38:01+01:00,remove appveyor since that was NOT the problem.,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-23T15:41:16+01:00,2020-01-23T15:41:16+01:00,ooops,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-27T16:49:12+01:00,2020-01-27T16:49:12+01:00,Edited CommitsCount to take into account the from_commit and computed metric for all modified files,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-27T17:35:05+01:00,2020-01-27T17:35:05+01:00,Modified DevsCount to take into account the from_commit and count for each modified file in the given time range,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-28T10:16:53+01:00,2020-01-28T10:16:53+01:00,Modified lines_count to take into account the starting commit (from_commit) and calculating metric for each modified file,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-28T11:10:29+01:00,2020-01-28T11:10:29+01:00,"Modified HunksCount to take into account the starting commit (from_commit) and calculating metric for each modified file in the provided time range [from_commit, to_commit]",stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-28T11:49:12+01:00,2020-01-28T11:49:12+01:00,"Modified MinorContributorsCount to take into account the starting commit (from_commit) and calculating metric for each modified file in the period [from_commit, to_commit]",stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-28T13:41:58+01:00,2020-01-28T13:41:58+01:00,Merged metrics MinorContributorsCount and DevsCount,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-28T16:35:43+01:00,2020-01-28T16:35:43+01:00,Update HistoryComplexity metric to take into account start commit (from_commit) and computing metric for each modified file,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-28T17:57:26+01:00,2020-01-28T17:57:26+01:00,"Update DevsExperience to take into account start commit (from_commit) and calculate metrics for each modified file in evolution period [from_commit, to_commit]. Refactore some code",stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-28T17:58:05+01:00,2020-01-28T17:58:05+01:00,Merge https://github.com/ishepard/pydriller,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-28T17:58:24+01:00,2020-01-28T17:58:24+01:00,Merge branch 'master' of https://github.com/stefanodallapalma/pydriller,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-29T10:23:51+01:00,2020-01-29T10:23:51+01:00,Handle filepath in test cases to work on Windows,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-29T11:05:36+01:00,2020-01-29T11:05:36+01:00,"Merge pull request #75 from stefanodallapalma/master
+
+Added process metrics and refactored code of previous ones",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-29T11:35:48+01:00,2020-01-29T11:35:48+01:00,"workflow: we now clone pydriller in test-repos, to speed up the tests. Update codecov in workflow since it wasn't detecting the coverage report, update logging level of pytest",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-29T11:49:20+01:00,2020-01-29T11:49:20+01:00,"windows backslash ""feature""",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-29T14:10:51+01:00,2020-01-29T14:10:51+01:00,add __del__ method on GitRepository,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-29T14:19:55+01:00,2020-01-29T14:19:55+01:00,in the attempt to fix python 3.6 on Windows. Using tempdirectory as a context manager,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-29T14:39:18+01:00,2020-01-29T14:39:18+01:00,using pytest tmp_path feature,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-29T14:45:12+01:00,2020-01-29T14:45:12+01:00,"not downloading pydriller in advance, check if windows doesn't complain",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-29T16:15:25+01:00,2020-01-29T16:15:25+01:00,refactoring test_git_repository,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-29T16:22:57+01:00,2020-01-29T16:22:57+01:00,refactor test_diff with pytest fixture,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-29T16:53:28+01:00,2020-01-29T16:53:28+01:00,formatting test_repository_mining,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-29T17:01:51+01:00,2020-01-29T17:01:51+01:00,upload to codecov only from ubuntu or macos,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-30T11:06:34+01:00,2020-01-30T11:06:34+01:00,"refactored most of the test code, using new names for the directories in test-repos. Now a small version of pydriller is included in test-repos.zip, to speed up the tests",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-30T12:22:16+01:00,2020-01-30T12:22:16+01:00,refactoring of tests completed,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-01-30T14:37:20+01:00,2020-01-30T14:37:20+01:00,"remove class metrics.py, since not consistent with the rest of the ""process metrics"" count scripts",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-03T10:00:47+01:00,2020-02-03T10:00:47+01:00,Updated LinesCount to account only for the total number of added and deleted lines,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-03T10:41:46+01:00,2020-02-03T10:41:46+01:00,"Merge pull request #79 from stefanodallapalma/lines_count_metric
+
+Updated LinesCount process metric",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-03T11:42:49+01:00,2020-02-03T11:42:49+01:00,Now the parsed_diff is in modification. Deprecating the function in GitRepository,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-03T13:27:28+01:00,2020-02-03T13:27:28+01:00,not using GitRepository parse_diff anymore,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-04T10:32:51+01:00,2020-02-04T10:32:51+01:00,"Merge pull request #80 from ishepard/diff_parsed
+
+parsed_diff is in modification",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-04T14:56:11+01:00,2020-02-04T14:56:11+01:00,fix from_commit and to_commit filters. Now they don't use the date of the commit anymore,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-05T09:27:29+01:00,2020-02-05T09:27:29+01:00,Better documentation on the reverse_order filter,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-05T15:20:26+01:00,2020-02-05T15:20:26+01:00,"delete reverse from_commit and to_commit, now the user needs to change them if reversed_order is True",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-05T16:19:16+01:00,2020-02-05T16:19:16+01:00,"Merge pull request #82 from ishepard/fix_from_commit
+
+Fix from_commit and to_commit filters",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-05T16:23:31+01:00,2020-02-05T16:23:31+01:00,removing example directory. It's hard to maintain since pydriller changes fast.,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-05T16:27:23+01:00,2020-02-05T16:27:23+01:00,Preparing release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-05T16:38:16+01:00,2020-02-05T16:38:16+01:00,removing deprecated function in next release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-06T10:35:09+01:00,2020-02-06T10:35:09+01:00,"fixed linter problems, optimized imports",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-07T11:17:29+01:00,2020-02-07T11:17:29+01:00,"if the order is wrong, automatically swap them",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-07T11:37:58+01:00,2020-02-07T11:37:58+01:00,small in test consumption logs,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-07T11:38:27+01:00,2020-02-07T11:38:27+01:00,"Merge pull request #84 from ishepard/fix_filters_order
+
+Fix order of commit filters",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-07T11:43:03+01:00,2020-02-07T11:43:03+01:00,remove note from the documentation of reversed_order,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-11T14:00:17+01:00,2020-02-11T14:00:17+01:00,Solved division by zero bug in history complexity metric,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-11T14:35:04+01:00,2020-02-11T14:35:04+01:00,"Merge pull request #86 from stefanodallapalma/fix_history_complexity
+
+Solved division by zero bug in history complexity metric",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-11T14:56:03+01:00,2020-02-11T14:56:03+01:00,Optional parameters from_commit and to_commit are now mandatory,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-11T15:01:14+01:00,2020-02-11T15:01:14+01:00,remove None from parameters in ProcessMetric,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-12T10:37:01+01:00,2020-02-12T10:37:01+01:00,Moved RepositoryMining instantiation from count to ProcessMetric init,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-12T13:09:23+01:00,2020-02-12T13:09:23+01:00,"Merge pull request #88 from stefanodallapalma/fix_warning_commit_pointers
+
+Refactoring and using the 'single' filter when from_commit = to_commit",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-27T13:04:11+01:00,2020-02-27T13:04:11+01:00,now HEAD can be used in filters,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-27T13:23:09+01:00,2020-02-27T13:23:09+01:00,"Merge pull request #92 from ishepard/head_filters
+
+now HEAD can be used in filters",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-27T13:24:39+01:00,2020-02-27T13:24:39+01:00,prepare for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-28T10:55:20+01:00,2020-02-28T10:55:20+01:00,fix on log message,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-28T17:21:28+01:00,2020-02-28T17:21:28+01:00,Implemented simple check for changed methods,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-28T17:27:28+01:00,2020-02-28T17:27:28+01:00,Added new methods,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-28T17:33:09+01:00,2020-02-28T17:33:09+01:00,Removed small typo from test,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-28T18:04:38+01:00,2020-02-28T18:04:38+01:00,Changed to list comprehenssion in func_list,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-28T18:09:20+01:00,2020-02-28T18:09:20+01:00,Update commit.py,GitHub,Alex
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-28T18:13:27+01:00,2020-02-28T18:13:27+01:00,Small tweaks in comments.,GitHub,Alex
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-28T22:48:57+01:00,2020-02-28T22:48:57+01:00,Implemented new way of finding changed methods,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-28T22:49:11+01:00,2020-02-28T22:49:11+01:00,Merge branch 'unique_methods' of https://github.com/NullConvergence/pydriller into unique_methods,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-29T12:06:48+01:00,2020-02-29T12:06:48+01:00,"Update pydriller/domain/commit.py
+
+Co-Authored-By: Davide Spadini <spadini.davide@gmail.com>",GitHub,Alex
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-29T12:10:11+01:00,2020-02-29T12:10:11+01:00,Added suggestion from CR,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-29T12:53:02+01:00,2020-02-29T12:53:02+01:00,Added tests for changed_methods,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-29T13:03:16+01:00,2020-02-29T13:03:16+01:00,Added test cleanup,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-29T13:03:40+01:00,2020-02-29T13:03:40+01:00,Solved small typo,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-02-29T14:49:26+01:00,2020-02-29T14:49:26+01:00,Uploaded test repos with changes specific to changed_methods,NullConvergence,NullConvergence
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-02T09:56:47+01:00,2020-03-02T09:56:47+01:00,"Merge pull request #95 from NullConvergence/unique_methods
+
+Implemented changed methods",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-02T11:05:55+01:00,2020-03-02T11:05:55+01:00,"small in commit, prepare for release",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-05T10:14:44+01:00,2020-03-05T10:14:44+01:00,start working on using git filters. major changes need to be done for this,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-05T10:21:13+01:00,2020-03-05T10:21:13+01:00,removing prints,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-05T13:43:56+01:00,2020-03-05T13:43:56+01:00,"pass rev and kwargs to gitpython, increase readability",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T10:24:29+01:00,2020-03-06T10:24:29+01:00,"single filter now uses a git filter as well, this is much faster",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T10:59:59+01:00,2020-03-06T10:59:59+01:00,since and to now uses git filters --since and --until,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T11:00:06+01:00,2020-03-06T11:00:06+01:00,Added documentation for process metrics on read_the_docs,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T11:44:27+01:00,2020-03-06T11:44:27+01:00,Added process metric to count code churns,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T12:16:17+01:00,2020-03-06T12:16:17+01:00,added process metric CHANGESET to mesure number of files committed together,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T13:49:10+01:00,2020-03-06T13:49:10+01:00,"Update LinesCount to measure count, max, and average number of added/removed lines to a file",stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T14:23:12+01:00,2020-03-06T14:23:12+01:00,fix in memory consumption test,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T14:24:43+01:00,2020-03-06T14:24:43+01:00,"Merge pull request #97 from stefanodallapalma/master
+
+Added documentation for process metrics on read_the_docs",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T14:26:15+01:00,2020-03-06T14:26:15+01:00,"Merge pull request #98 from stefanodallapalma/code_churn_count
+
+Added process metrics for Code churns",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T14:27:10+01:00,2020-03-06T14:27:10+01:00,"Merge pull request #99 from stefanodallapalma/change_set
+
+Added process metric to measure the number of files committed together",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T14:31:29+01:00,2020-03-06T14:31:29+01:00,"Merge pull request #100 from stefanodallapalma/edit_lines_count_metric
+
+Update LinesCount to measure count, max, and average number of added/…",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T14:33:11+01:00,2020-03-06T14:33:11+01:00,Merge commit '12b9e6dee8a6af0816249045cdc0f3e2b06450c4' into use-git-filters,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T14:38:15+01:00,2020-03-06T14:38:15+01:00,removing double leading underscore,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T14:38:37+01:00,2020-03-06T14:38:37+01:00,Merge branch 'master' into use-git-filters,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T15:09:06+01:00,2020-03-06T15:09:06+01:00,cleaning and comments,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T15:09:41+01:00,2020-03-06T15:09:41+01:00,Update docs. All implemented process metrics are described,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T15:16:57+01:00,2020-03-06T15:16:57+01:00,Update methods of class ContributorsCount according to the documentation,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T15:44:36+01:00,2020-03-06T15:44:36+01:00,"add test for ""clone_repo_to"" with non existing directory",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T15:59:26+01:00,2020-03-06T15:59:26+01:00,"Merge pull request #96 from ishepard/use-git-filters
+
+Using Git filters",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-06T16:01:04+01:00,2020-03-06T16:01:04+01:00,"Merge pull request #101 from stefanodallapalma/master
+
+Updated documentation and refactored class ContributorsCount",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-13T10:06:46+01:00,2020-03-13T10:06:46+01:00,"if 2 commits had the same commit date, we swapped them. Now we check for the author date instead.",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-16T10:33:02+01:00,2020-03-16T10:33:02+01:00,"Merge pull request #104 from ishepard/fix_ordering_from_to_commit
+
+Fix bug in swapping from and to commit",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-17T13:36:57+01:00,2020-03-17T13:36:57+01:00,"Adding git order filters. deprecating the old filter ""reversed_order""",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-17T14:24:46+01:00,2020-03-17T14:24:46+01:00,"add tests for new order filters, refactor references to old ""reversed_order"" filter",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-17T14:35:02+01:00,2020-03-17T14:35:02+01:00,update documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-17T15:00:21+01:00,2020-03-17T15:00:21+01:00,"Merge pull request #106 from ishepard/git_order
+
+Git order filters",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-18T14:40:21+01:00,2020-03-18T14:40:21+01:00,Added datetime parameter since and to in ProcessMetric and added test case for TypeError,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-18T16:24:00+01:00,2020-03-18T16:24:00+01:00,The user can now run the process metrics between two dates rathern than two commits. Added test cases to test for dates,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-19T09:49:10+01:00,2020-03-19T09:49:10+01:00,"Merge pull request #107 from stefanodallapalma/master
+
+Now process metrics support datetime",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-19T10:24:11+01:00,2020-03-19T10:24:11+01:00,prepare for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-19T10:24:23+01:00,2020-03-19T10:24:23+01:00,Merge branch 'master' of github.com:ishepard/pydriller,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-19T11:00:52+01:00,2020-03-19T11:00:52+01:00,"removing memory consumption test. it introduces too much flakiness, I will run it locally",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-20T11:45:42+01:00,2020-03-20T11:45:42+01:00,Fixed ValueError: max() arg is an empty sequence and statistics.StatisticsError: mean requires at least one data point in change_set.py,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-20T12:54:02+01:00,2020-03-20T12:54:02+01:00,Using parameter default=0 instead of if to handle ValueError in function max of change_set.py,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-20T13:04:09+01:00,2020-03-20T13:04:09+01:00,"Merge pull request #108 from stefanodallapalma/master
+
+Fixed ValueError: max() arg is an empty sequence and statistics.Stati…",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-07T15:11:18+01:00,2020-04-01T16:45:10+02:00,"Ensure tests are taken from tests folder
+
+And not from the unzipped git repository if
+pytest is invoked without arguments.",Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-07T15:12:48+01:00,2020-04-01T16:45:10+02:00,Fix pip requirements installation instructions,Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-03-07T16:10:14+01:00,2020-04-01T16:45:11+02:00,"Factor out method to get (tmp) clone directory
+
+Cleans up code so that less comments are needed.",Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-02T11:54:41+02:00,2020-04-02T11:54:41+02:00,"Merge pull request #111 from avandeursen/test-docs
+
+Small setup improvements and a refactoring",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-05T13:51:07-04:00,2020-04-05T13:51:07-04:00,Add 2 new parameters to set '--all' and '--remotes' in git rev-list,Evan Casey,Evan Casey
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-05T15:12:47-04:00,2020-04-05T15:12:47-04:00,Create tests for the two new parameters to RepositoryMining,Evan Casey,Evan Casey
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-06T09:21:23+02:00,2020-04-06T09:21:23+02:00,"Merge pull request #112 from evancasey1/include_refs_and_remotes
+
+Arguments that enable '--all' and '--remotes' for git rev-list",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-05T15:15:31+02:00,2020-04-09T21:24:26+02:00,"Add test-repo for DMM functionality
+
+Added repository:
+https://github.com/avandeursen/dmm-test-repo",Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-09T21:23:56+02:00,2020-04-13T17:35:04+02:00,"Add Delta Maintainability Model metrics
+
+Extend Commit class with three new properties
+
+- dmm_unit_size
+- dmm_unit_complexity
+- dmm_unit_interfacing
+
+Helper methods are implemented in the Modifications class as well.
+
+The corresponding test class provides full branch coverage, using a dedicated
+git test repository.
+
+See also Marco di Biase, Ayushi Rastogi, Magiel Bruntink, and Arie van Deursen. The Delta Maintainability Model: measuring maintainability of fine-grained code changes. IEEE/ACM International Conference on Technical Debt (TechDebt) at ICSE 2019, pp 113-122",Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-13T17:36:51+02:00,2020-04-13T17:36:51+02:00,Document the new DMM functionality,Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-18T17:46:40+02:00,2020-04-18T19:51:30+02:00,"Move low-risk method predicate to Method class.
+
+Also:
+- Use enum to identify the type of DMM property (size, complexity, interfacing)
+- Add reference to documentation for thresholds.",Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-20T10:48:33+02:00,2020-04-20T10:48:33+02:00,"Merge pull request #113 from avandeursen/dmm
+
+Open Source Delta Maintainability Model Support",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-20T11:18:25+02:00,2020-04-20T11:18:25+02:00,minor refactoring. Preparing for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-22T14:02:04+02:00,2020-04-22T14:02:04+02:00,Resolve mypy typing warnings,Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-22T14:10:54+02:00,2020-04-22T14:10:54+02:00,"Resolve None-related mypy warnings
+
+Make the optional nature of the Commit metric instance variable explicit.
+
+Inform mypy (and the developer) that ""calculate_metrics"" ensures
+metrics are not None anymore by means of an assertion.",Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-22T14:14:34+02:00,2020-04-22T14:14:34+02:00,Resolve mypy issues by adding annotations,Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-22T14:15:11+02:00,2020-04-22T14:15:11+02:00,"Resolve mypy warnings in RepositoryMining constructor
+
+Public  API constructor arguments `only_modifications_with_file_types` and
+`only_commits` take an List as input, but are transformed in the implementation
+into a set.
+
+MyPy did not like that the same variable was  used  for  the set and the list.
+Introduced a separate one to document the conversion more explicitly.
+
+The alternative option would be to change the public API into expecting
+a set rather than a List[str].",Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-22T18:15:05+02:00,2020-04-22T18:15:05+02:00,Fix incorrect type annotation,Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-23T12:48:07+02:00,2020-04-23T12:48:07+02:00,"Rename TEST_DATA variable when re-used to resolve (mypy) typing
+
+The TEST_DATA vaiable was used with different types, assigned
+first with just a string tuple, and later with a mixed string/date tuple.
+
+Resolved by using different variables for the different purposes.
+
+With this change, all process metrics test cases pass the mypy type checking.",Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-26T22:46:04+02:00,2020-04-26T23:06:14+02:00,"Make variable type annotations python 3.5 compatible
+
+Variable type annotations were introduced in Python 3.6.
+https://www.python.org/dev/peps/pep-0526/
+
+To keep PyDriller compatiable with Python 3.5, switch to
+old-school comment-based type annotations instead.",Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-27T10:00:08+02:00,2020-04-27T10:00:08+02:00,"Merge pull request #115 from avandeursen/mypy
+
+Resolution of open MyPy Issues",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-04-27T10:03:24+02:00,2020-04-27T10:03:24+02:00,Run mypy in GH actions,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-02T22:22:27+02:00,2020-05-02T22:22:27+02:00,"Ignore changes in unsupported languages in DMM
+
+Commits can contain modificiations in languages not supported by Lizard.
+Such changes should be ignored when computing the delta maintainability metrics.
+
+We add a predicate to Modifications checking whether the programming language used
+is supported (this is an extension of the public API), implemented by a call to Lizard.
+
+If none of the modifications of a commit is written in a supported language,
+the dmm value returned becomes None (this makes the return type Optional[Float]
+instead of just Float).",Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-04T16:16:52+02:00,2020-05-04T16:16:52+02:00,add changed_methods in documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-04T16:19:44+02:00,2020-05-04T16:19:44+02:00,"Merge pull request #117 from avandeursen/supported-languages
+
+Ignore changes in unsupported languages in DMM",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-05T13:43:32+02:00,2020-05-05T13:43:32+02:00,fix error for multiple repos using the tag filter,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-05T14:00:34+02:00,2020-05-05T14:00:34+02:00,do not run lizard on files that are not supported,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-05T14:00:56+02:00,2020-05-05T14:00:56+02:00,"Merge pull request #119 from ishepard/fix-tags-multiple-repos
+
+Fix error for multiple repos using the tag filter",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-05T14:04:26+02:00,2020-05-05T14:04:26+02:00,"Fix mypy issues, prepare for release",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-05T14:04:46+02:00,2020-05-05T14:04:46+02:00,Merge branch 'master' of github.com:ishepard/pydriller,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-12T10:41:56+02:00,2020-05-12T10:41:56+02:00,Improved documentation,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-14T14:55:10+02:00,2020-05-14T14:55:10+02:00,fix project name when multiple repos are given as parameters,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-14T15:05:02+02:00,2020-05-14T15:05:02+02:00,"Merge pull request #122 from ishepard/fix-projectname-multiple-repos
+
+Fix commit.project_name when multiple repos are given as parameters",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-14T15:39:00+02:00,2020-05-14T15:39:00+02:00,prepare for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-18T19:53:33+02:00,2020-05-18T19:53:33+02:00,better documentation for include_refs and include_remotes,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-19T17:03:50+02:00,2020-05-19T17:03:50+02:00,"Properly handle zero-change modifications in DMM
+
+Let the DMM proportion of good over (good+bad) change yield ""None""
+if the (good+bad) change equals zero (until now, 1.0 was returned instead).
+
+Also undo the special treatment of the case in which
+delta_high < 0 and delta_high = 0
+to make the pydriller implementation fully consisten with the published paper.
+
+Update documentation and tests accordingly.",Arie van Deursen,Arie van Deursen
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-20T09:01:32+02:00,2020-05-20T09:01:32+02:00,"Merge pull request #124 from avandeursen/none-when-no-change
+
+Properly handle zero-change modifications in DMM",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-28T09:38:17+02:00,2020-05-28T09:38:17+02:00,update documentation on order,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-28T10:19:09+02:00,2020-05-28T10:19:09+02:00,create version of pydriller,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-28T10:26:04+02:00,2020-05-28T10:26:04+02:00,Update documentation with how to obtain the version of pydriller,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-28T11:30:02+02:00,2020-05-28T11:30:02+02:00,started using flake8,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-28T12:05:27+02:00,2020-05-28T12:05:27+02:00,"new attribute of commit project_path, plus I now save the temporarydirectory so I can later delete it",ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-28T12:08:52+02:00,2020-05-28T12:08:52+02:00,fix mypy issue,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-28T13:52:19+02:00,2020-05-28T13:52:19+02:00,fix error on windows CI,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-28T14:54:01+02:00,2020-05-28T14:54:01+02:00,using shutil to remove the temp directory on windows if error is raised,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-28T14:59:27+02:00,2020-05-28T14:59:27+02:00,"Merge pull request #128 from ishepard/fix-deletion-tempdirs
+
+Fix deletion of temporary directories",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-05-28T15:03:54+02:00,2020-05-28T15:03:54+02:00,prepare for release,ishepard,ishepard
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-09-28T12:37:19+02:00,2020-09-28T12:37:19+02:00,support abspaths,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-09-28T12:53:27+02:00,2020-09-28T12:53:27+02:00,add workflow schedule,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-09-28T12:54:13+02:00,2020-09-28T12:54:13+02:00,"Merge pull request #139 from ishepard/abspath
+
+Support abspaths",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-09-28T12:57:40+02:00,2020-09-28T12:57:40+02:00,"Merge pull request #140 from ishepard/workflow-schedule
+
+Add workflow schedule",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-10-02T13:30:42+02:00,2020-10-02T13:30:42+02:00,fix #136,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-10-08T09:37:02+02:00,2020-10-08T09:37:02+02:00,Refactor traverse_commits to use a context manager instead,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-10-08T09:41:45+02:00,2020-10-08T09:41:45+02:00,fix mypy issue,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-10-08T09:51:16+02:00,2020-10-08T09:51:16+02:00,"Merge pull request #141 from ishepard/ctx-manager
+
+Refactor traverse_commits to use a context manager instead",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-10-08T12:39:32+02:00,2020-10-08T12:39:32+02:00,fix lgtm warning,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-10-09T18:29:44+02:00,2020-10-09T18:29:44+02:00,removing bch since it's not free anymore,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-10-09T18:36:31+02:00,2020-10-09T18:36:31+02:00,fix setup.py tests require,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-10-19T15:37:28+02:00,2020-10-19T15:37:28+02:00,making git_repo available in repositorymining,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-10-19T15:45:31+02:00,2020-10-19T15:45:31+02:00,fix mypy issues,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-10-19T15:49:49+02:00,2020-10-19T15:49:49+02:00,fix python3.5 variable type,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-02T09:53:14+01:00,2020-11-02T09:53:14+01:00,Add python 3.9 support,GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-02T09:55:04+01:00,2020-11-02T09:55:04+01:00,Remove python 3.5 support,GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-11T09:22:31+01:00,2020-11-11T09:22:31+01:00,"Fix #145
+
+When the include_remotes and include_refs are added to the RepositoryMining, we need to pass those to the branch lookup too.",GitHub,Stephane Poss
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-11T09:36:00+01:00,2020-11-11T09:36:00+01:00,"Merge pull request #146 from sposs/master
+
+Fix #145",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-11T10:49:23+01:00,2020-11-11T10:49:23+01:00,fix pytest features for test_commit and test_ranges,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-11T10:59:42+01:00,2020-11-11T10:59:42+01:00,ignoring deletion errors on Windows,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-11T11:00:02+01:00,2020-11-11T11:00:02+01:00,fix pytest features on test_diff,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-11T11:09:08+01:00,2020-11-11T11:09:08+01:00,remove useless import,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-11T11:09:23+01:00,2020-11-11T11:09:23+01:00,fix pytest fixtures in test_git_repository,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-11T11:22:02+01:00,2020-11-11T11:22:02+01:00,fix pytest fixtures on test_repository_mining,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-11T11:26:45+01:00,2020-11-11T11:26:45+01:00,fix flake8 error,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-11T11:33:00+01:00,2020-11-11T11:33:00+01:00,preparing for release,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-11T16:32:22+01:00,2020-11-11T16:32:22+01:00,change badge url for month downloads,GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-15T18:54:49+01:00,2020-11-15T18:54:49+01:00,add test for projectpath,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-16T15:02:44+01:00,2020-11-16T15:02:44+01:00,fix return type of _calculate_last_commits,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-20T10:21:48+01:00,2020-11-20T10:21:48+01:00,better test for renaming in get_commits_last_modified_lines,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-20T10:29:36+01:00,2020-11-20T10:29:36+01:00,fix test results for szz folder,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-20T10:34:55+01:00,2020-11-20T10:34:55+01:00,fix test: path in windows was wrong,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-30T14:35:15+01:00,2020-11-30T14:35:15+01:00,removing git obj from GitRepo,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-11-30T14:51:27+01:00,2020-11-30T14:51:27+01:00,prepare release,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2020-12-07T11:07:15+01:00,2020-12-07T11:07:15+01:00,Update README.md,GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-01T01:09:09+08:00,2021-01-01T01:09:09+08:00,"Update commit.py
+
+Added insertions/deletions/lines properities for easy commit info collection
+
+From phrase the gitpython classgit.util.Stats(total, files) it could give the data we need
+https://gitpython.readthedocs.io/en/stable/reference.html?highlight=stats.total#git.util.Stats",GitHub,butterl
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-02T01:31:16+08:00,2021-01-02T01:31:16+08:00,"Update commit.py
+
+added the changed file count ,  the stats.files dict returned from git repo works",GitHub,butterl
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-02T01:57:57+08:00,2021-01-02T01:57:57+08:00,"Update commit.py
+
+The gitpython returns  stat data in int from th doc",GitHub,butterl
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-02T02:00:36+08:00,2021-01-02T02:00:36+08:00,"Update test_git_repository.py
+
+add test asserts for the new members",GitHub,butterl
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-02T02:03:22+08:00,2021-01-02T02:03:22+08:00,"Update commit.py
+
+fix comments error by copy-paste",GitHub,butterl
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-03T01:58:10+08:00,2021-01-03T01:58:10+08:00,"Update pydriller/domain/commit.py
+
+Co-authored-by: Davide Spadini <spadini.davide@gmail.com>",GitHub,butterl
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-04T10:54:56+01:00,2021-01-04T10:54:56+01:00,"Merge pull request #151 from butterl/master
+
+Added insertions/deletions/lines/files properities for easy commit info collection in commit.py",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-05T11:20:51+01:00,2021-01-05T11:20:51+01:00,add tests for commit shortstat info,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-05T11:42:36+01:00,2021-01-05T11:42:36+01:00,fix optional in test,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-12T10:59:21+01:00,2021-01-12T10:59:21+01:00,update docs with new info on commit,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-12T11:03:28+01:00,2021-01-12T11:03:28+01:00,small in doc commit,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-12T11:04:08+01:00,2021-01-12T11:04:08+01:00,prepare for release,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-28T10:44:28+01:00,2021-01-28T10:44:28+01:00,Minor: fix get_commit() call in the API documentation,GitHub,Felipe Ebert
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-01-28T10:33:14+00:00,2021-01-28T10:33:14+00:00,"Merge pull request #152 from felipeebert/patch-1
+
+Minor: fix get_commit() call in the API documentation",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-03T11:54:56+01:00,2021-04-03T11:54:56+01:00,Add threadpool executor with chunks of commits,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-03T12:14:28+01:00,2021-04-03T12:14:28+01:00,"Add num_workers, small refactoring",Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-03T16:33:03+01:00,2021-04-03T16:33:03+01:00,iter_commits and split_chunks are private methods,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-03T16:45:10+01:00,2021-04-03T16:45:10+01:00,small refactoring in traverse_commits,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-03T17:08:01+01:00,2021-04-03T17:08:01+01:00,return generator of commits,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-03T19:51:50+01:00,2021-04-03T19:51:50+01:00,add threshold to codecov,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-03T19:52:13+01:00,2021-04-03T19:52:13+01:00,Merge branch 'master' into pydriller2,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-04T11:14:55+01:00,2021-04-04T11:14:55+01:00,renamed GitRepository and RepositoryMining,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-11T22:30:59+02:00,2021-04-11T22:30:59+02:00,Fix typo in documentation,GitHub,Dominik Tuchyna
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-12T14:48:25+01:00,2021-04-12T14:48:25+01:00,"Merge pull request #163 from xtuchyna/patch-1
+
+Fix typo in documentation",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-14T17:01:16+02:00,2021-04-14T17:01:16+02:00,Initial implementation of hashable commit and modification objects,HelgeCPH,HelgeCPH
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-21T22:09:52+02:00,2021-04-21T22:09:52+02:00,Added unittests and fixed hash functions to return integers,HelgeCPH,HelgeCPH
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-21T22:11:39+02:00,2021-04-21T22:11:39+02:00,Fixed docstrings,HelgeCPH,HelgeCPH
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-22T11:51:19+02:00,2021-04-22T11:51:19+02:00,Incorporated code review feedback,HelgeCPH,HelgeCPH
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-22T11:02:06+01:00,2021-04-22T11:02:06+01:00,Update continuous-integration-workflow.yml,GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-04-22T11:03:54+01:00,2021-04-22T11:03:54+01:00,"Merge pull request #166 from HelgeCPH/pydriller2
+
+Made Commit and Modification objects hashable so that they can be used in dictionaries and sets",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-07T17:04:08+01:00,2021-05-07T17:04:08+01:00,renamed added and removed to added_lines and deleted_lines,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-07T17:23:44+01:00,2021-05-07T17:23:44+01:00,"removed 2 __eq__ unused, small naming refactoring in repository",Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-07T17:26:08+01:00,2021-05-07T17:26:08+01:00,Merge branch 'master' into pydriller2,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-07T17:37:16+01:00,2021-05-07T17:37:16+01:00,fix flake8 errors,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-10T10:37:47+01:00,2021-05-10T10:37:47+01:00,Renamed modifications to modifiedfile,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-10T11:02:50+01:00,2021-05-10T11:02:50+01:00,"Merge pull request #170 from ishepard/pydriller2
+
+Pydriller2",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-10T20:09:28+02:00,2021-05-10T20:09:28+02:00,"Update README.md
+
+- Replaced outdated gif with updated code int ""PyDriller2"".
+- Collapsed ""Requirements"", ""Source Code"", and ""How to contribute"" sections to slim the README.
+- Replaced section ""License"" with tag.",GitHub,Stefano Dalla Palma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-11T11:34:49+02:00,2021-05-11T11:34:49+02:00,Closes #169. Added flag ignore_added_files to not count churns when files are created.,stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-11T10:53:54+01:00,2021-05-11T10:53:54+01:00,"Merge pull request #172 from stefanodallapalma/patch-1
+
+Update README.md",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-11T11:17:09+01:00,2021-05-11T11:17:09+01:00,Update README.md,GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-11T11:23:57+01:00,2021-05-11T11:23:57+01:00,Update README.md,GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-11T12:37:32+02:00,2021-05-11T12:37:32+02:00,Fixed flake8 'W391 blank line at end of file',stefanodallapalma,stefanodallapalma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-11T11:48:08+01:00,2021-05-11T11:48:08+01:00,"Merge pull request #173 from stefanodallapalma/issue-169
+
+Closes #169",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-11T12:40:26+01:00,2021-05-11T12:40:26+01:00,Prepare for release,GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-12T09:49:06+01:00,2021-05-12T09:49:06+01:00,Update README.md,GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-17T10:07:14+01:00,2021-05-17T10:07:14+01:00,Update README.md,GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-17T20:36:17+02:00,2021-05-17T20:36:17+02:00,"Added 'add_deleted_lines_to_churn' as another CodeChurn class parameter, so that the churn calculation can be configured to also add removed lines",Gregor Lato,Gregor Lato
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-17T20:45:59+02:00,2021-05-17T20:45:59+02:00,Updated processmetrics docs be adding/describing the `add_deleted_lines_to_churn` parameter,Gregor Lato,Gregor Lato
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-18T17:43:12+02:00,2021-05-18T17:43:12+02:00,Fixed some flake8 errors,Gregor Lato,Gregor Lato
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-05-19T16:01:56+01:00,2021-05-19T16:01:56+01:00,"Merge pull request #176 from glato/add-deleted-lines-as-churn-variant
+
+Choose calculation variant to calculate the code churn metric",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-01T12:40:19+02:00,2021-06-01T12:40:19+02:00,"Update repository.py
+
+Added description for parameter num_workers",GitHub,Stefano Dalla Palma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-01T13:36:52+02:00,2021-06-01T13:36:52+02:00,Fixed exception on repeated run of clone_to,HelgeCPH,HelgeCPH
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-01T13:42:11+02:00,2021-06-01T13:42:11+02:00,Trying to satisfy the linter,HelgeCPH,HelgeCPH
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-01T13:45:16+02:00,2021-06-01T13:45:16+02:00,Trying to satisfy the linter a bit more,HelgeCPH,HelgeCPH
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-01T13:39:51+01:00,2021-06-01T13:39:51+01:00,"Merge pull request #179 from stefanodallapalma/patch-1
+
+Update repository.py",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-01T14:46:15+02:00,2021-06-01T14:46:15+02:00,Moved check of already checked-out repo to appropriate method,HelgeCPH,HelgeCPH
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-01T14:49:51+02:00,2021-06-01T14:49:51+02:00,Trying to satisfy the linter again,HelgeCPH,HelgeCPH
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-01T14:55:53+02:00,2021-06-01T14:55:53+02:00,Incorporated feedback on variable use,HelgeCPH,HelgeCPH
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-01T17:15:36+01:00,2021-06-01T17:15:36+01:00,"Merge pull request #180 from HelgeCPH/clone_rerun
+
+Fixed exception on repeated run of clone_repo_to",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-07T14:01:08+05:18,2021-06-07T14:01:08+05:18,Update README.md,GitHub,Shantanu Oak
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-07T09:47:51+01:00,2021-06-07T09:47:51+01:00,"Merge pull request #182 from shantanuo/master
+
+Update README.md",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-10T10:13:14+01:00,2021-06-10T10:13:14+01:00,fix mypy error 'stubs not installed',Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-10T10:13:29+01:00,2021-06-10T10:13:29+01:00,Merge branch 'master' of github.com:ishepard/pydriller,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-15T16:58:26+02:00,2021-06-15T16:58:26+02:00,Update repository.py,GitHub,Stefano Dalla Palma
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-16T09:41:40+01:00,2021-06-16T09:41:40+01:00,"Merge pull request #185 from stefanodallapalma/patch-1
+
+Update repository.py docs",GitHub,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-06-23T11:01:50+01:00,2021-06-23T11:01:50+01:00,Renamed internal variable _modifications to _modified_files for consistency,Davide Spadini,Davide Spadini
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-07-08T20:32:04+02:00,2021-07-08T20:32:04+02:00,Catch specific exception with malformed url,andodet,andodet
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-07-08T20:50:18+02:00,2021-07-08T20:50:18+02:00,Add test,andodet,andodet
+xronos.R,Packages and libraries,"Radiocarbon dating, calibration and sequencing",Datasets,,,,2021-07-11T17:03:57+01:00,2021-07-11T17:03:57+01:00,"Merge pull request #189 from andodet/err-handling
+
+Catch specific exception with malformed repo url",GitHub,Davide Spadini
